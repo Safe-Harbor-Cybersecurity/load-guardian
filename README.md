@@ -1,4 +1,4 @@
-# load-guardian
+# Load Guardian DDoS protection tool
 A defensive load balancer in Go that includes DDoS protection features.
 
 This load balancer implements several defensive features:
